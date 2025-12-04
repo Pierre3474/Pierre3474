@@ -10,7 +10,7 @@
 - 🔭 **Je travaille actuellement sur :** des scripts d’automatisation et des projets open-source
 - 🌱 **J’apprends :** le DevOps, le cloud, et les technologies de conteneurisation (Docker, Kubernetes…)
 - 💬 **Contacte-moi :** pierre3474 [@] gmail.com
-- 🚀 **Portfolio :** [Lien vers mon portfolio](#) *(remplace par ton vrai lien si tu en as un)*
+- 🚀 **Portfolio :** [Lien vers mon portfolio](#)
 
 ## 🛠️ Compétences & Outils
 
